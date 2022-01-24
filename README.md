@@ -1,4 +1,4 @@
-# The best repo there ever was 
+# The best repo there ever was and how!
 Little demo to show off how git works.
 
-Git is a great tool!
+Git is the best  tool ever!
