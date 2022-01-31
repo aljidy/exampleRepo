@@ -5,3 +5,4 @@
 - We can save thing we need for later 
 - We can store our history and our code online for all to see
 - (and in case we mess it up)
+- We can branch
